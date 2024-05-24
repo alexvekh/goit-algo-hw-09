@@ -31,6 +31,6 @@ def find_min_coins(coins, amount):
     return result
 
 # Приклад використання функції
-coins = [50, 25, 10, 5, 2, 1]
-amount = 113
-print(find_min_coins(coins, amount))
+# coins = [50, 25, 10, 5, 2, 1]
+# amount = 113
+# print(find_min_coins(coins, amount))
